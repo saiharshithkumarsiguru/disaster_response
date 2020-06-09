@@ -1,5 +1,5 @@
 <html>
-<h1>What are the most popular TecHnoLoGies among DeveLopERS?</h1>
+<h1>How are messages clssified during a disaster?</h1>
 
 ![Intro Pic](screenshots/intro.png)
 
@@ -37,7 +37,8 @@ The Project is divided in the following Sections:
 
 <h1>Installation</h1>
 
-You are supposed to use this command for downloading this files into "git clone https://github.com/saiharshithkumarsiguru/disaster_response/"  
+You are supposed to use this command for downloading this files into 
+"git clone https://github.com/saiharshithkumarsiguru/disaster_response/"  
 <pre>
 The following libabries are to be installed
 
@@ -55,9 +56,9 @@ The following libabries are to be installed
 <h1>Project Motivation</h1>
 <pre>
 
-<b>My key interests would be:</b>
-
-It's really important that our emergency calls are responded and help is sent out fast.Inorder to achieve this,the messages are to be devided according to the respective departments.Yah You guessed it right!This project does that.    
+It's really important that our emergency calls are responded and help is sent out fast.
+Inorder to achieve this,the messages are to be devided according to the respective departments.
+Yah You guessed it right!This project does that.    
 
 </pre>
 </div>
