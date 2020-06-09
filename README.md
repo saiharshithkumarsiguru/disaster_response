@@ -140,14 +140,14 @@ This file has input and output images.
 <div id="Licensing">
 <h1>Licensing</h1>
 <pre>
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+MIT license
 </pre>
 </div>
 <div id="Acknowledgements">
 <pre>
 <h1>Acknowledgements</h1>
-* [Udacity](https://www.udacity.com/) for providing such a complete Data Science Nanodegree Program
-* [Figure Eight](https://www.figure-eight.com/) for providing messages dataset to train my model
+* Thanks UDACITY for providing such a complete Data Science Nanodegree Program
+* Thanks FIGURE EIGHT for providing messages dataset to train my model
 </pre>
 </div>
 
